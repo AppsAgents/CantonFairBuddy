@@ -1,5 +1,5 @@
 **Readme**
 
-link: [here](https://CantonFairBuddy.github.io)
+link: [here](https://AppsAgents.github.io/CantonFairBuddy)
 
 *Official Site*
